@@ -1,0 +1,20 @@
+{
+  "name": "react-forms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch main.scss main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Student-1112/react-forms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Student-1112/react-forms/issues"
+  },
+  "homepage": "https://github.com/Student-1112/react-forms#readme"
+}
